@@ -32,5 +32,3 @@ Identification Number" (BIN). See ISO/IEC 7812 for more information.
 L<Business::BankCard::Indonesia>
 
 L<Business::CardInfo>
-
-1;
