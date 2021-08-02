@@ -2,3 +2,4 @@ Business-BankCard-*
 .build
 *~
 nytprof*
+.DS_Store
